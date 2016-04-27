@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joshua Concon</title>
+    <description>Joshua Concon&#39;s Personal Blog
+</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 26 Apr 2016 21:58:47 -0400</pubDate>
+    <lastBuildDate>Tue, 26 Apr 2016 21:58:47 -0400</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Introduction</title>
+        <description>&lt;p&gt;Finally got to actually setting up this website.&lt;/p&gt;
+
+&lt;p&gt;Hi, I’m Joshua Concon, and undergraduate student at the University of Toronto.&lt;/p&gt;
+
+&lt;p&gt;On this blog, I will be posting about my experiences as a Computer Science student, as well as giving advice on what to expect to prospective students to UofT and CS in general.&lt;/p&gt;
+
+&lt;p&gt;Ya that’s it really.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Apr 2016 03:53:46 -0400</pubDate>
+        <link>/university_of_toronto/2016/04/26/test.html</link>
+        <guid isPermaLink="true">/university_of_toronto/2016/04/26/test.html</guid>
+        
+        
+        <category>University_of_Toronto</category>
+        
+      </item>
+    
+  </channel>
+</rss>
