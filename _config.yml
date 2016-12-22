@@ -16,7 +16,6 @@ author:
   name:           'Joshua Concon'
   url:            https://twitter.com/mdo
 
-future:           true
 paginate:         5
 
 # Custom vars
