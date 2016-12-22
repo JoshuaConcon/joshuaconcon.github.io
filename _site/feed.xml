@@ -2,30 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joshua Concon</title>
-    <description>Joshua Concon&#39;s Personal Blog
-</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 Apr 2016 21:58:47 -0400</pubDate>
-    <lastBuildDate>Tue, 26 Apr 2016 21:58:47 -0400</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <description>Computer Science Student at the University of Toronto Scarborough</description>
+    <link>http://hyde.getpoole.com//</link>
+    <atom:link href="http://hyde.getpoole.com//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 19 Dec 2016 03:36:36 -0500</pubDate>
+    <lastBuildDate>Mon, 19 Dec 2016 03:36:36 -0500</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Introduction</title>
-        <description>&lt;p&gt;Finally got to actually setting up this website.&lt;/p&gt;
+        <description>&lt;p&gt;Hello there! My name is of course Joshua Concon and this is my very first blog post where I plan to hopefully be able to log and comment about my experiences as a CS Student at the University of Toronto Scarborough. I will be trying to post monthly or more frequently provided that coursework does not overwhelm me.&lt;/p&gt;
 
-&lt;p&gt;Hi, I’m Joshua Concon, and undergraduate student at the University of Toronto.&lt;/p&gt;
-
-&lt;p&gt;On this blog, I will be posting about my experiences as a Computer Science student, as well as giving advice on what to expect to prospective students to UofT and CS in general.&lt;/p&gt;
-
-&lt;p&gt;Ya that’s it really.&lt;/p&gt;
+&lt;p&gt;Currently, I am enrolled in the Computer Science Specialist: Comprehensive Stream as well as a Major in Mathematics, which many have told me that I will end up hating my life due to how theoretical it all is, but it seem pretty good so far. I barely made it into the program from first year due to my horrendous grades, however I have brought them up last summer, allowing me to enter into POSt.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 26 Apr 2016 03:53:46 -0400</pubDate>
-        <link>/university_of_toronto/2016/04/26/test.html</link>
-        <guid isPermaLink="true">/university_of_toronto/2016/04/26/test.html</guid>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://hyde.getpoole.com//2017/01/01/Introduction/</link>
+        <guid isPermaLink="true">http://hyde.getpoole.com//2017/01/01/Introduction/</guid>
         
-        
-        <category>University_of_Toronto</category>
         
       </item>
     
