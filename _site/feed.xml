@@ -5,9 +5,28 @@
     <description>Computer Science Student at the University of Toronto Scarborough</description>
     <link>http://hyde.getpoole.com//</link>
     <atom:link href="http://hyde.getpoole.com//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Feb 2017 21:32:13 -0500</pubDate>
-    <lastBuildDate>Sun, 19 Feb 2017 21:32:13 -0500</lastBuildDate>
+    <pubDate>Sun, 09 Apr 2017 01:24:52 -0400</pubDate>
+    <lastBuildDate>Sun, 09 Apr 2017 01:24:52 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>First Year at UTSC</title>
+        <description>&lt;p&gt;As a now second year student Computer Science student just finishing up the mandatory B-level CS courses for my program (provided I don’t fail anything lol) I often look back at my first year and how different both experiences ended up being. I ask myself, where did it all go wrong?&lt;/p&gt;
+
+&lt;p&gt;Anyways here’s a quick outline of all the courses I took in First Year&lt;/p&gt;
+
+&lt;h1 id=&quot;csca08---introduction-to-computer-science-i&quot;&gt;CSCA08 - Introduction to Computer Science I&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.utsc.utoronto.ca/aboutus/sites/utsc.utoronto.ca.aboutus/files/styles/page-content-wide/public/escb_0.jpg?itok=2HskNViQ&quot; alt=&quot;EV Building&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As of 2017, this is the newest building on campus, and it really shows. This building is super clean, well maintained, and reportedly hosts the fastest wifi connection speeds on campus (right in the middle where the couches are).&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 07 Apr 2017 00:00:00 -0400</pubDate>
+        <link>http://hyde.getpoole.com//2017/04/07/FirstYear/</link>
+        <guid isPermaLink="true">http://hyde.getpoole.com//2017/04/07/FirstYear/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Introduction</title>
