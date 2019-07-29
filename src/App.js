@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="App">
         <Container>
-          <h1>howdy 🤠, im joshua concon</h1>
+          <h1>howdy, im joshua concon</h1>
         </Container>
         <Container bgColour="#00204e">
           <h3>im studying computer science at <a href="https://www.utoronto.ca/">@utoronto</a></h3>
@@ -24,12 +24,12 @@ class App extends Component {
           <p>status: looking for part-time workstudy positions starting from sep 2019 and full-time positions starting at sep 2020 (preferably in toronto).</p>
           <p>open to offers in nyc and sfba (will need visa sponsorship)</p>
           <p>
-            <a href="mailto:joshua.concon@mail.utoronto.ca">email</a>&nbsp;
-            <a href="https://linkedin.com/in/joshuaconcon">linkedin</a>&nbsp;
-            <a href="https://github.com/JoshuaConcon">github</a>&nbsp;
-            <a href="https://github.com/JoshuaConcon/resume/raw/master/resume.pdf">resume</a>&nbsp;
-            <a href="https://instagram.com/joshuaconcon">instagram</a>&nbsp;
-            <a href="https://facebook.com/joshuaconcon">facebook</a>
+            <a href="mailto:joshua.concon@mail.utoronto.ca"><i class="far fa-envelope"></i></a>&nbsp;
+            <a href="https://linkedin.com/in/joshuaconcon"><i class="fab fa-linkedin"></i></a>&nbsp;
+            <a href="https://github.com/JoshuaConcon"><i class="fab fa-github-square"></i></a>&nbsp;
+            <a href="https://github.com/JoshuaConcon/resume/raw/master/resume.pdf"><i class="far fa-file-alt"></i></a>&nbsp;
+            <a href="https://instagram.com/joshuaconcon"><i class="fab fa-instagram"></i></a>&nbsp;
+            <a href="https://facebook.com/joshuaconcon"><i class="fab fa-facebook-square"></i></a>
           </p>
         </Container>
       </div>
