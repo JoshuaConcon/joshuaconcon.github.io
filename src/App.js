@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="App">
         <Container>
-          <h1>howdy, im joshua concon</h1>
+          <h2>howdy <span role="img" aria-label="Cowboy">🤠</span>, im joshua concon</h2>
         </Container>
         <Container bgColour="#00204e">
           <h3>im studying computer science at <a href="https://www.utoronto.ca/">@utoronto</a></h3>
@@ -22,14 +22,15 @@ class App extends Component {
         </Container>
         <Container>
           <p>status: looking for part-time workstudy positions starting from sep 2019 and full-time positions starting at sep 2020 (preferably in toronto).</p>
-          <p>open to offers in nyc and sfba (will need visa sponsorship)</p>
+          <p>open to offers in nyc and sfba (will require sponsorship)</p>
           <p>
-            <a href="mailto:joshua.concon@mail.utoronto.ca"><i class="far fa-envelope"></i></a>&nbsp;
-            <a href="https://linkedin.com/in/joshuaconcon"><i class="fab fa-linkedin"></i></a>&nbsp;
-            <a href="https://github.com/JoshuaConcon"><i class="fab fa-github-square"></i></a>&nbsp;
-            <a href="https://github.com/JoshuaConcon/resume/raw/master/resume.pdf"><i class="far fa-file-alt"></i></a>&nbsp;
-            <a href="https://instagram.com/joshuaconcon"><i class="fab fa-instagram"></i></a>&nbsp;
-            <a href="https://facebook.com/joshuaconcon"><i class="fab fa-facebook-square"></i></a>
+            <a href="mailto:joshua.concon@mail.utoronto.ca"><i class="far fa-envelope fa-lg"></i></a>&nbsp;
+            <a href="https://linkedin.com/in/joshuaconcon"><i class="fab fa-linkedin fa-lg"></i></a>&nbsp;
+            <a href="https://github.com/JoshuaConcon"><i class="fab fa-github-square fa-lg"></i></a>&nbsp;
+            <a href="https://github.com/JoshuaConcon/resume/raw/master/resume.pdf"><i class="far fa-file-alt fa-lg"></i></a>&nbsp;
+            <a href="https://instagram.com/joshuaconcon"><i class="fab fa-instagram fa-lg"></i></a>&nbsp;
+            <a href="https://facebook.com/joshuaconcon"><i class="fab fa-facebook-square fa-lg"></i></a>
+            <a href="https://twitter.com/Joshua_Concon"><i class="fab fa-twitter-square fa-lg"></i></a>
           </p>
         </Container>
       </div>
