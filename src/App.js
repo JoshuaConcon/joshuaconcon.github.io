@@ -27,7 +27,7 @@ class App extends Component {
             <a href="mailto:joshua.concon@mail.utoronto.ca"><i class="far fa-envelope fa-lg"></i></a>&nbsp;
             <a href="https://linkedin.com/in/joshuaconcon"><i class="fab fa-linkedin fa-lg"></i></a>&nbsp;
             <a href="https://github.com/JoshuaConcon"><i class="fab fa-github-square fa-lg"></i></a>&nbsp;
-            <a href="https://github.com/JoshuaConcon/resume/raw/master/resume.pdf"><i class="far fa-file-alt fa-lg"></i></a>&nbsp;
+            <a href="https://github.com/JoshuaConcon/resume/blob/master/resume.pdf"><i class="far fa-file-alt fa-lg"></i></a>&nbsp;
             <a href="https://instagram.com/joshuaconcon"><i class="fab fa-instagram fa-lg"></i></a>&nbsp;
             <a href="https://facebook.com/joshuaconcon"><i class="fab fa-facebook-square fa-lg"></i></a>
             <a href="https://twitter.com/Joshua_Concon"><i class="fab fa-twitter-square fa-lg"></i></a>
