@@ -47,8 +47,12 @@ class Now extends Component {
               iconName="fab fa-facebook-square"
               colour={this.state.contentColour}/>
             <Link
-              hyperlink="https://instagram.com/joshuaconcon"
+              hyperlink="https://twitter.com/Joshua_Concon"
               iconName="fab fa-twitter-square"
+              colour={this.state.contentColour}/>
+            <Link
+              hyperlink="https://angel.co/joshuaconcon"
+              iconName="fab fa-angellist"
               colour={this.state.contentColour}/>
           </font>
         </Container>
