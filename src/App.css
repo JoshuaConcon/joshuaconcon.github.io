@@ -1,21 +1,3 @@
 .App {
   text-align: center;
 }
-
-.App-logo {
-  animation: App-logo-spin infinite 90s linear;
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-i {
-  padding: 22px;
-}
-
-a {
-  color: #FF4F6A;
-}
