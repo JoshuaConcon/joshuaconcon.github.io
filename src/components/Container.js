@@ -11,7 +11,9 @@ class Container extends Component {
 
   render() {
     return (
-      <header className="App-header" style={{backgroundColor: this.state.bgColour}}>
+      <header
+        className="App-header"
+        style={{backgroundColor: this.state.bgColour}}>
         {this.props.children}
       </header>
     );

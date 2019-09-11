@@ -14,8 +14,8 @@ class Scotiabank extends Component {
     return (
       <Container bgColour={this.state.bgColour}>
           <font color={this.state.contentColour}>
-            <h3>Also did an year-long internship at scotiabank</h3>
-            <h4>building upon their risk management systems</h4>
+            <h3>Also did an year-long internship at Scotiabank</h3>
+            <h4>doing dev work on their risk management systems</h4>
           </font>
         </Container>
     );

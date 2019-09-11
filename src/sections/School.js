@@ -15,7 +15,7 @@ class School extends Component {
       <Container bgColour={this.state.bgColour}>
           <font color={this.state.contentColour}>
             <h3>I'm studying Computer Science at the University of Toronto</h3>
-            <p>(planning to graduate on Nov 2020)</p>
+            <h4>(planning to graduate on Nov 2020)</h4>
           </font>
       </Container>
     );

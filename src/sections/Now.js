@@ -24,15 +24,15 @@ class Now extends Component {
             </h4>
             <Link
               hyperlink="mailto:joshua.concon@mail.utoronto.ca"
-              iconName="fas fa-envelope-square"
+              iconName="far fa-envelope"
               colour={this.state.contentColour}/>
             <Link
               hyperlink="https://linkedin.com/in/joshuaconcon"
-              iconName="fab fa-linkedin"
+              iconName="fab fa-linkedin-in"
               colour={this.state.contentColour}/>
             <Link
               hyperlink="https://github.com/JoshuaConcon"
-              iconName="fab fa-github-square"
+              iconName="fab fa-github"
               colour={this.state.contentColour}/>
             <Link
               hyperlink="https://github.com/JoshuaConcon/resume/blob/master/resume.pdf"
@@ -44,11 +44,11 @@ class Now extends Component {
               colour={this.state.contentColour}/>
             <Link
               hyperlink="https://www.facebook.com/joshua.aaron.concon"
-              iconName="fab fa-facebook-square"
+              iconName="fab fa-facebook-f"
               colour={this.state.contentColour}/>
             <Link
               hyperlink="https://twitter.com/Joshua_Concon"
-              iconName="fab fa-twitter-square"
+              iconName="fab fa-twitter"
               colour={this.state.contentColour}/>
             <Link
               hyperlink="https://angel.co/joshuaconcon"
