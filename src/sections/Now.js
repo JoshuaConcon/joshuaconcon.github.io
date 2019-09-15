@@ -23,7 +23,7 @@ class Now extends Component {
               open to offers in Toronto, New York City and San Francisco Bay Area (will require sponsorship for USA)
             </h4>
             <Link
-              hyperlink="mailto:joshua.concon@mail.utoronto.ca"
+              hyperlink="mailto:me@joshuaconcon.ca"
               iconName="far fa-envelope"
               colour={this.state.contentColour}/>
             <Link
