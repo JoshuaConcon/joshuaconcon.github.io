@@ -16,7 +16,7 @@ class School extends Component {
           <font color={this.state.contentColour}>
             <h3>I'm studying Computer Science at the University of Toronto</h3>
             <h4>I graduate on November 2020</h4>
-            <h5>Currently build games to monitor congitive functions in dementia patients and the elderly at Centivizer, a spin-off company from the Interactive Media Lab at UofT</h5>
+            <h4>Currently working at Centivizer, a spin-off company from the Interactive Media Lab at UofT</h4>
           </font>
       </Container>
     );
