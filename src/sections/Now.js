@@ -17,11 +17,14 @@ class Now extends Component {
       <Container bgColour={this.state.bgColour}>
           <font color={this.state.contentColour}>
             <h3>
-              Status: Looking for full-time new graduate positions starting in September 2020
+              Status: Looking for internship positions for Summer 2020
             </h3>
             <h4>
-              open to offers in Toronto, New York City and San Francisco Bay Area (will require sponsorship for USA)
+              preferably in Toronto, New York City and San Francisco Bay Area
             </h4>
+            <h5>
+              (will require sponsorship for USA)
+            </h5>
             <Link
               hyperlink="mailto:me@joshuaconcon.ca"
               iconName="far fa-envelope"
