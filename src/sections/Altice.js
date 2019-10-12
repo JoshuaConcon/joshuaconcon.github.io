@@ -14,7 +14,7 @@ class Altice extends Component {
     return (
       <Container bgColour={this.state.bgColour}>
           <font color={this.state.contentColour}>
-          <h3>Did backend development at A4Media (an Altice USA company)</h3>
+          <h3>Did backend development at a4 Media (an Altice USA company)</h3>
           <h4>preparing their new advertising platform for launch</h4>
           </font>
         </Container>
