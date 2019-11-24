@@ -20,10 +20,10 @@ class Now extends Component {
               Status: Looking for internship positions for Summer 2020
             </h3>
             <h4>
-              preferably in Toronto, New York City or San Francisco Bay Area
+              preferably in Toronto
             </h4>
             <h5>
-              (will require sponsorship for USA)
+              (will require sponsorship for USA opportunities)
             </h5>
             <Link
               hyperlink="mailto:me@joshuaconcon.ca"
