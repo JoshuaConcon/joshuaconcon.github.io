@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Container from '../components/Container';
-import './Hello.css';
 
 class Hello extends Component {
   constructor(props) {

@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Container from '../components/Container';
 import Link from '../components/Link';
-import './Now.css'
 
 class Now extends Component {
   constructor(props) {
@@ -16,15 +15,10 @@ class Now extends Component {
     return (
       <Container bgColour={this.state.bgColour}>
           <font color={this.state.contentColour}>
+            <h1>contact + now</h1>
             <h3>
               Status: Looking for internship positions for Summer 2020
             </h3>
-            <h4>
-              preferably in Toronto
-            </h4>
-            <h5>
-              (will require sponsorship for USA opportunities)
-            </h5>
             <Link
               hyperlink="mailto:me@joshuaconcon.ca"
               iconName="far fa-envelope"

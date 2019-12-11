@@ -14,7 +14,7 @@ class Experience extends Component {
     return (
       <Container bgColour={this.state.bgColour}>
           <font color={this.state.contentColour}>
-            <h3>experience</h3>
+            <h1>experience</h1>
           </font>
       </Container>
     );
