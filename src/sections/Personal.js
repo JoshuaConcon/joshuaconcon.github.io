@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Container from '../components/Container';
+import './Flickty.css';
 
 class Personal extends Component {
   constructor(props) {
@@ -15,8 +16,10 @@ class Personal extends Component {
       <Container bgColour={this.state.bgColour}>
           <font color={this.state.contentColour}>
             <h1>hobbies</h1>
-            <h3>I've been watching a lot of Initial D so I'm into Eurobeat right now</h3>
-            <h3>Recently got into fashion and graphic design, currently looking for my aesthetic</h3>
+            <div class="main-carousel" data-flickity='{ "cellAlign": "left", "contain": true }'>
+              <div class="carousel-cell">I've been watching a lot of Initial D so I'm into Eurobeat right now</div>
+              <div class="carousel-cell">Recently got into fashion and graphic design, currently looking for my aesthetic</div>
+            </div>
           </font>
       </Container>
       
