@@ -16,9 +16,9 @@ class Now extends Component {
       <Container bgColour={this.state.bgColour}>
           <font color={this.state.contentColour}>
             <h1>contact + now</h1>
-            <h3>
+            <p>
               Status: Looking for internship positions for Summer 2020
-            </h3>
+            </p>
             <Link
               hyperlink="mailto:me@joshuaconcon.ca"
               iconName="far fa-envelope"
