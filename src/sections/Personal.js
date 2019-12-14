@@ -25,12 +25,10 @@ class Personal extends Component {
           <h1>hobbies</h1>
           <div class="main-carousel" data-flickity='{ "cellAlign": "left", "contain": true, "wrapAround": true, "autoPlay": true }'>
             <div class="carousel-cell">
-              I've been watching a lot of Initial D
-              so I'm into Eurobeat right now
+              i'm into manga and anime. been watching initial d and reading kingdom recently
             </div>
             <div class="carousel-cell">
-              Recently got into fashion and graphic design,
-              currently looking for my aesthetic
+              recently got into fashion and graphic design, currently looking for my aesthetic
             </div>
           </div>
         </font>

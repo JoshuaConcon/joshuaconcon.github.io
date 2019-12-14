@@ -16,7 +16,7 @@ class Hello extends Component {
           <font color={this.state.contentColour}>
             howdy, i'm
             <h1>joshua concon</h1>
-            Scroll down to learn more about me!
+            scroll down to learn more about me!
           </font>
       </Container>
       

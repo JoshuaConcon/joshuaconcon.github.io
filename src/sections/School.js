@@ -28,9 +28,9 @@ class School extends Component {
           <h1>education</h1>
           <div class="main-carousel" data-flickity='{ "cellAlign": "left", "contain": true, "wrapAround": true, "autoPlay": true }'>
             <div class="carousel-cell">
-              I'm studying Computer Science at the University of Toronto (2021).
+              i'm studying computer science at the university of toronto (2021).
               <br />
-              I was a TA for Discrete Math and Intro to Programming.
+              i was a teaching assistant for discrete math and intro to programming.
             </div>
           </div>
         </font>
