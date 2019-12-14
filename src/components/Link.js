@@ -15,7 +15,7 @@ class Link extends Component {
     return (
       <a href={this.state.hyperlink}>
         <span color={this.state.colour}>
-          <i class={this.state.className}>
+          <i className={this.state.className}>
           </i>
         </span>
       </a>

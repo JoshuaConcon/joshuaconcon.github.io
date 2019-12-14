@@ -1,21 +1,20 @@
 import React, {Component} from 'react';
-import Now from './sections/Now';
-import School from './sections/School';
-import Hello from './sections/Hello';
-import Personal from './sections/Personal';
-import Experience from './sections/Experience';
+import Sections from './sections/';
 import './App.css';
 import 'circular-std';
 
+/**
+ * Main App Component
+ */
 class App extends Component {
+  /**
+   * Render function for Main App
+   * @return {*} Website HTML
+   */
   render() {
     return (
       <div className="App">
-        <Hello bgColour="#FEFFF1" contentColour="#000000"/>
-        <School bgColour="#FEFFF1" contentColour="#000000"/>
-        <Experience bgColour="#FEFFF1" contentColour="#000000"/>
-        <Personal bgColour="#FEFFF1" contentColour="#000000"/>
-        <Now bgColour="#FEFFF1" contentColour="#000000"/>
+        <Sections />
       </div>
     );
   }

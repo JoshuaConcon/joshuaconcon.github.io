@@ -28,11 +28,11 @@ class Now extends Component {
         <font color={this.state.contentColour}>
           <h1>contact + now</h1>
           <p>
-            status: Looking for internship positions for summer 2020
+            status: looking for internship positions for summer 2020
             <br />
             <br />
-            thinking about pursuing grad school in cs
-            after working in the industry for a few years to transition into
+            im thinking of working in the industry for a few years after
+            graduating and then potentially pursuing grad school in
             computational biology and machine learning
           </p>
           <Link
