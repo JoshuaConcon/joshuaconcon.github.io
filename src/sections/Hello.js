@@ -14,9 +14,9 @@ class Hello extends Component {
     return (
       <Container bgColour={this.state.bgColour}>
           <font color={this.state.contentColour}>
-            <p>howdy, i'm</p>
+            howdy, i'm
             <h1>joshua concon</h1>
-            <p>Scroll down to learn more about me!</p>
+            Scroll down to learn more about me!
           </font>
       </Container>
       

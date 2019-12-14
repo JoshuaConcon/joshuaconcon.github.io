@@ -23,9 +23,7 @@ class Personal extends Component {
       <Container bgColour={this.state.bgColour}>
         <font color={this.state.contentColour}>
           <h1>hobbies</h1>
-          <div 
-            class="main-carousel"
-            data-flickity='{ "cellAlign": "left", "contain": true }'>
+          <div class="main-carousel" data-flickity='{ "cellAlign": "left", "contain": true, "wrapAround": true, "autoPlay": true }'>
             <div class="carousel-cell">
               I've been watching a lot of Initial D
               so I'm into Eurobeat right now

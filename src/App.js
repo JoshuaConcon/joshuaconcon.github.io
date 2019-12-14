@@ -5,6 +5,7 @@ import Hello from './sections/Hello';
 import Personal from './sections/Personal';
 import Experience from './sections/Experience';
 import './App.css';
+import "circular-std";
 
 class App extends Component {
   render() {

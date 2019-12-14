@@ -26,9 +26,7 @@ class School extends Component {
       <Container bgColour={this.state.bgColour}>
         <font color={this.state.contentColour}>
           <h1>education</h1>
-          <div
-            class="main-carousel"
-            data-flickity='{ "cellAlign": "left", "contain": true, "wrapAround": true}'>
+          <div class="main-carousel" data-flickity='{ "cellAlign": "left", "contain": true, "wrapAround": true, "autoPlay": true }'>
             <div class="carousel-cell">
               I'm studying Computer Science at the University of Toronto (2021).
               <br />
