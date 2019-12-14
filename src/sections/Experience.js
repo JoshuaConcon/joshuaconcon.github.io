@@ -7,7 +7,7 @@ import './Flickty.css';
  */
 class Experience extends Component {
   /**
-   * 
+   * constructor for Experience Section
    * @param {*} props 
    */
   constructor(props) {
