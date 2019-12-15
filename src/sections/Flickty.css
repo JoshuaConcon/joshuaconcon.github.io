@@ -44,7 +44,6 @@
 .overlap-title {
   position: relative;
   color: white;
-  top: 5%;
   font-size: 1.5em;
 }
 
@@ -57,7 +56,6 @@
 .overlap-shape {
   position: relative;
   background-color: white;
-  top: 20px;
   height: 1px;
   width: 100%;
 }
