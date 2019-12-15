@@ -30,7 +30,7 @@ class Education extends Component {
           <h2>education</h2>
           <div
             className="main-carousel"
-            data-flickity='{ "cellAlign": "left", "contain": true, "wrapAround": true, "autoPlay": 7500, "imagesLoaded": true }'>
+            data-flickity='{ "cellAlign": "left", "contain": true, "wrapAround": true, "autoPlay": 7500, "imagesLoaded": true, "draggable": true }'>
             <div className="utoronto-bg-image carousel-cell">
               <div className="overlap-shape"></div>
               <div className="overlap-title">

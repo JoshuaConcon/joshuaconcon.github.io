@@ -30,7 +30,7 @@ class Experience extends Component {
           <h2>experience</h2>
           <div
             className="main-carousel"
-            data-flickity='{ "cellAlign": "left", "contain": true, "wrapAround": true, "autoPlay": 7500, "imagesLoaded": true }'>
+            data-flickity='{ "cellAlign": "left", "contain": true, "wrapAround": true, "autoPlay": 7500, "imagesLoaded": true}'>
             <div className="centivizer-bg-image carousel-cell">
               <div className="overlap-shape"></div>
               <div className="overlap-title">
