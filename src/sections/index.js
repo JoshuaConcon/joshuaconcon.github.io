@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
 import Now from './Now';
-import School from './School';
+import Education from './Education';
 import Hello from './Hello';
-import Personal from './Personal';
+import Hobbies from './Hobbies';
 import Experience from './Experience';
 
 /**
@@ -17,9 +17,9 @@ class Sections extends Component {
     return (
       <div className="App">
         <Hello bgColour="#FEFFF1" contentColour="#000000"/>
-        <School bgColour="#FEFFF1" contentColour="#000000"/>
+        <Education bgColour="#FEFFF1" contentColour="#000000"/>
         <Experience bgColour="#FEFFF1" contentColour="#000000"/>
-        <Personal bgColour="#FEFFF1" contentColour="#000000"/>
+        <Hobbies bgColour="#FEFFF1" contentColour="#000000"/>
         <Now bgColour="#FEFFF1" contentColour="#000000"/>
       </div>
     );

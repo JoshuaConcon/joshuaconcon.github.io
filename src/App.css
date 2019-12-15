@@ -16,3 +16,14 @@ i {
 a {
   color: #000000;
 }
+
+h1 {
+  font-size: 2em;
+}
+
+.title-shape {
+  position: absolute;
+  background-color: black;
+  height: 1px;
+  width: 90%;
+}

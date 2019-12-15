@@ -26,12 +26,13 @@ class Now extends Component {
     return (
       <Container bgColour={this.state.bgColour}>
         <font color={this.state.contentColour}>
-          <h1>contact + now</h1>
+          <div className="title-shape"></div>
+          <h2>contact + now</h2>
           <p>
             status: looking for internship positions for summer 2020
             <br />
             <br />
-            im thinking of working in the industry for a few years after
+            im planning on working in the industry for a few years after
             graduating and then potentially pursuing grad school in
             computational biology and machine learning
           </p>

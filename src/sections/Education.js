@@ -1,10 +1,11 @@
 import React, {Component} from 'react';
 import Container from '../components/Container';
+import './Flickty.css';
 
 /**
  * Education portion of website
  */
-class School extends Component {
+class Education extends Component {
   /**
    * Constructor Function
    * @param {*} props
@@ -25,15 +26,22 @@ class School extends Component {
     return (
       <Container bgColour={this.state.bgColour}>
         <font color={this.state.contentColour}>
-          <h1>education</h1>
+          <div className="title-shape"></div>
+          <h2>education</h2>
           <div
             className="main-carousel"
             data-flickity='{ "cellAlign": "left", "contain": true, "wrapAround": true, "autoPlay": true, "imagesLoaded": true }'>
-            <div className="carousel-cell">
-              i'm studying computer science at the university of toronto (2021).
-              <br />
-              i was a teaching assistant for
-              discrete math and intro to programming.
+            <div className="utoronto-bg-image carousel-cell">
+              <div className="overlap-shape"></div>
+              <div className="overlap-title">
+                university of toronto
+              </div>
+              <div className="overlap-text">
+                i'm studying <a href="https://web.cs.toronto.edu/">computer science at the university of toronto</a> (2021).
+                <br />
+                i was a teaching assistant for
+                discrete math and intro to programming.
+              </div>
             </div>
           </div>
         </font>
@@ -42,4 +50,4 @@ class School extends Component {
   }
 }
 
-export default School;
+export default Education;
