@@ -37,7 +37,9 @@ class Education extends Component {
                 university of toronto
               </div>
               <div className="overlap-text">
-                i'm studying <a href="https://web.cs.toronto.edu/">computer science at the university of toronto</a> (2021).
+                i'm studying <a href="https://web.cs.toronto.edu/">
+                  computer science at the university of toronto
+                </a> (graduating june 2021).
                 <br />
                 i was a teaching assistant for
                 discrete math and intro to programming.

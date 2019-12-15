@@ -53,7 +53,7 @@ class Hobbies extends Component {
                 fashion
               </div>
               <div className="overlap-text">
-                recently got into fashion too, my palette is earth tones
+                recently got into fashion too, my palette is usually earth tones
               </div>
             </div>
           </div>

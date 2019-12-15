@@ -17,6 +17,8 @@
   padding: 5vh 5vw 5vh 5vw;
   font-size: 12;
   word-wrap: break-word;
+  display: flex;
+  flex-direction: column;
 }
 
 .flickity-prev-next-button {
@@ -40,24 +42,24 @@
 }
 
 .overlap-title {
-  position: absolute;
+  position: relative;
   color: white;
   top: 5%;
   font-size: 1.5em;
 }
 
 .overlap-text {
-  position: absolute;
+  position: relative;
   color: white;
-  bottom: 5%;
+  margin-top: auto;
 }
 
 .overlap-shape {
-  position: absolute;
+  position: relative;
   background-color: white;
   top: 20px;
   height: 1px;
-  width: 90%;
+  width: 100%;
 }
 
 .utoronto-bg-image {
