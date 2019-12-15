@@ -29,12 +29,15 @@ class Now extends Component {
           <div className="title-shape"></div>
           <h2>contact + now</h2>
           <p>
-            status: looking for internship positions for summer 2020
+            status: looking for internship positions for summer 2020 in toronto
             <br />
             <br />
             im planning on working in the industry for a few years after
             graduating and then potentially pursuing grad school in
             computational biology and machine learning
+            <br />
+            <br />
+            feel free to take a look at my links or contact me
           </p>
           <Link
             hyperlink="mailto:me@joshuaconcon.ca"
