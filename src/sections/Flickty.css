@@ -23,13 +23,19 @@
 
 .flickity-prev-next-button {
   background: transparent;
-  visibility: hidden;
 }
 
-.flickity-button {
-  visibility: hidden;
+.flickity-button-icon {
+  fill: white;
 }
 
+.flickity-button:hover {
+  background: transparent;
+}
+
+.flickity-button:disabled {
+  display: none;
+}
 .flickity-page-dots {
   bottom: -22px;
 }
