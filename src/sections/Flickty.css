@@ -87,7 +87,12 @@
 }
 
 .centivizer-bg-image {
-  background-image: url(https://i.imgur.com/CILdYZR.jpg);
+  background-image: url(https://i.imgur.com/yZReY7Q.jpg);
+  background-size: cover;
+}
+
+.pmcc-bg-image {
+  background-image: url(https://i.imgur.com/aGGQYfT.jpg);
   background-size: cover;
 }
 
