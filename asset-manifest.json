@@ -1,5 +1,5 @@
 {
-  "main.css": "/static/css/main.97388234.chunk.css",
+  "main.css": "/static/css/main.82a5393d.chunk.css",
   "main.js": "/static/js/main.399256bc.chunk.js",
   "main.js.map": "/static/js/main.399256bc.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
@@ -8,9 +8,9 @@
   "static/js/2.43d4a12d.chunk.js": "/static/js/2.43d4a12d.chunk.js",
   "static/js/2.43d4a12d.chunk.js.map": "/static/js/2.43d4a12d.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.f4800f60e31bd428e95bd8ad786343e0.js": "/precache-manifest.f4800f60e31bd428e95bd8ad786343e0.js",
+  "precache-manifest.b7ab98831d3bf3388aeb516d4c6c2a8f.js": "/precache-manifest.b7ab98831d3bf3388aeb516d4c6c2a8f.js",
   "service-worker.js": "/service-worker.js",
   "static/css/2.36a7c766.chunk.css.map": "/static/css/2.36a7c766.chunk.css.map",
-  "static/css/main.97388234.chunk.css.map": "/static/css/main.97388234.chunk.css.map",
+  "static/css/main.82a5393d.chunk.css.map": "/static/css/main.82a5393d.chunk.css.map",
   "static/media/index.css": "/static/media/CircularStd-MediumItalic.7095d23a.ttf"
 }
