@@ -44,7 +44,7 @@ class Hobbies extends Component {
                 graphic design
               </div>
               <div className="overlap-text">
-                recently got into graphic design again, currently looking for my aesthetic
+                i recently got into graphic design, currently experimenting with off-white colours
               </div>
             </div>
             <div className="fashion-bg-image carousel-cell">
@@ -53,7 +53,7 @@ class Hobbies extends Component {
                 fashion
               </div>
               <div className="overlap-text">
-                recently got into fashion too, my palette is usually earth tones
+                recently got into fashion too, my palette is usually earth tones. i also try my best to support sustainable and slow fashion
               </div>
             </div>
           </div>

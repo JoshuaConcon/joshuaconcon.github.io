@@ -42,7 +42,7 @@ class Education extends Component {
                 </a> (graduating june 2021).
                 <br />
                 i was a teaching assistant for
-                discrete math and intro to programming.
+                discrete math, intro to programming and data structures.
               </div>
             </div>
           </div>

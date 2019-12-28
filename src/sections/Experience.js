@@ -37,7 +37,7 @@ class Experience extends Component {
                 princess margaret cancer centre
               </div>
               <div className="overlap-text">
-                incoming research intern at the <a href="https://www.uhn.ca/PrincessMargaret">princess margaret cancer centre</a> under the <a href="https://www.pmgenomics.ca/bhklab/">benjamin haibe-kains lab</a>
+                im an incoming research intern at the <a href="https://www.uhn.ca/PrincessMargaret">princess margaret cancer centre</a> under the <a href="https://www.pmgenomics.ca/bhklab/">benjamin haibe-kains lab</a>
               </div>
             </div>
             <div className="centivizer-bg-image carousel-cell">
@@ -46,9 +46,9 @@ class Experience extends Component {
                 centivizer
               </div>
               <div className="overlap-text">
-                currently working at <a href="https://www.centivizer.com/">centivizer</a>, a spin-off
-                company from the <a href="https://imedia.mie.utoronto.ca/">interactive media lab at uoft</a>,
-                building games that monitor motor controls
+                im currently working at <a href="https://www.centivizer.com/">centivizer</a>, a spin-off
+                company from the <a href="https://imedia.mie.utoronto.ca/">interactive media lab at uoft</a>.
+                there, im building games that help monitor motor controls
                 of dementia patients and the elderly
               </div>
             </div>
@@ -58,7 +58,7 @@ class Experience extends Component {
                 altice usa
               </div>
               <div className="overlap-text">
-                did backend development at <a href="https://a4media.com/">a4 media</a> (an <a href="https://www.alticeusa.com/">altice usa</a> company) preparing their
+                i did backend development at <a href="https://a4media.com/">a4 media</a> (an <a href="https://www.alticeusa.com/">altice usa</a> company) preparing their
                 new advertising platform for launch
               </div>
             </div>
@@ -78,7 +78,7 @@ class Experience extends Component {
                 university of toronto scarborough
               </div>
               <div className="overlap-text">
-                my first gig was writing python and bash scripts
+                my first gig was writing scripts
                 for processing DNA sequences as a bioinformatics research
                 assistant for the <a href="https://www.utsc.utoronto.ca/~lovejoy/">lovejoy lab at utsc</a>
               </div>
