@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "2d00dacfa45682b454cca077d60a6f00",
-    "url": "/static/media/CircularStd-BlackItalic.2d00dacf.eot"
+    "revision": "ce2a6c4154de87815e8971d21a987403",
+    "url": "/static/media/CircularStd-Bold.ce2a6c41.ttf"
   },
   {
-    "revision": "297d4965f19dde1c8ff2",
+    "revision": "6bc1824746f21116e8ad",
     "url": "/static/css/main.82a5393d.chunk.css"
   },
   {
@@ -28,10 +28,6 @@ self.__precacheManifest = [
     "url": "/static/media/CircularStd-BookItalic.61889cfb.woff"
   },
   {
-    "revision": "59880bb792378f77deca117ea6b17567",
-    "url": "/static/media/CircularStd-Black.59880bb7.woff"
-  },
-  {
     "revision": "e13b5c7b607cba29c792f13d5328ddb6",
     "url": "/static/media/CircularStd-BlackItalic.e13b5c7b.woff"
   },
@@ -52,6 +48,10 @@ self.__precacheManifest = [
     "url": "/static/media/CircularStd-MediumItalic.21a7520d.woff"
   },
   {
+    "revision": "59880bb792378f77deca117ea6b17567",
+    "url": "/static/media/CircularStd-Black.59880bb7.woff"
+  },
+  {
     "revision": "6d37d850bec0c1c86f9ebdbfbd9c4fc2",
     "url": "/static/media/CircularStd-BookItalic.6d37d850.eot"
   },
@@ -64,8 +64,8 @@ self.__precacheManifest = [
     "url": "/static/media/CircularStd-Black.faf6412f.eot"
   },
   {
-    "revision": "c885948f6112a185e0e6c79963826882",
-    "url": "/static/media/CircularStd-Black.c885948f.ttf"
+    "revision": "2d00dacfa45682b454cca077d60a6f00",
+    "url": "/static/media/CircularStd-BlackItalic.2d00dacf.eot"
   },
   {
     "revision": "7f645a713b0b95ae78201587d97e7f47",
@@ -76,12 +76,12 @@ self.__precacheManifest = [
     "url": "/static/media/CircularStd-Bold.e66cd439.eot"
   },
   {
-    "revision": "297d4965f19dde1c8ff2",
-    "url": "/static/js/main.012cd4ea.chunk.js"
+    "revision": "6bc1824746f21116e8ad",
+    "url": "/static/js/main.bd6ba38d.chunk.js"
   },
   {
-    "revision": "e714c355d6f6687fc2a03019c348fe53",
-    "url": "/static/media/CircularStd-BoldItalic.e714c355.eot"
+    "revision": "c885948f6112a185e0e6c79963826882",
+    "url": "/static/media/CircularStd-Black.c885948f.ttf"
   },
   {
     "revision": "fe0bddb876ee3c18c1d99fdbabb6e20c",
@@ -92,8 +92,8 @@ self.__precacheManifest = [
     "url": "/static/media/CircularStd-Medium.3473fea8.eot"
   },
   {
-    "revision": "7095d23a432c27d51c271d4df95f9cf7",
-    "url": "/static/media/CircularStd-MediumItalic.7095d23a.ttf"
+    "revision": "e714c355d6f6687fc2a03019c348fe53",
+    "url": "/static/media/CircularStd-BoldItalic.e714c355.eot"
   },
   {
     "revision": "46d551dfd0caa61f1332d7c477f584c2",
@@ -104,12 +104,12 @@ self.__precacheManifest = [
     "url": "/static/media/CircularStd-MediumItalic.1e3f8d0e.eot"
   },
   {
-    "revision": "d246520db4ce4615016723d4828da9bc",
-    "url": "/static/media/CircularStd-Book.d246520d.eot"
+    "revision": "7095d23a432c27d51c271d4df95f9cf7",
+    "url": "/static/media/CircularStd-MediumItalic.7095d23a.ttf"
   },
   {
-    "revision": "ce2a6c4154de87815e8971d21a987403",
-    "url": "/static/media/CircularStd-Bold.ce2a6c41.ttf"
+    "revision": "d246520db4ce4615016723d4828da9bc",
+    "url": "/static/media/CircularStd-Book.d246520d.eot"
   },
   {
     "revision": "c43e9feb9ca817ae86afb47fd0ee4f94",
@@ -124,16 +124,16 @@ self.__precacheManifest = [
     "url": "/static/media/CircularStd-BookItalic.82b115ef.svg"
   },
   {
-    "revision": "1b076d9ad8819d19aa512a24ebbae34e",
-    "url": "/static/media/CircularStd-Black.1b076d9a.svg"
+    "revision": "bec463136b1cb5c7635312651a1f4139",
+    "url": "/static/media/CircularStd-Bold.bec46313.svg"
   },
   {
     "revision": "1cb265773f6649837562166987bde887",
     "url": "/static/media/CircularStd-Medium.1cb26577.svg"
   },
   {
-    "revision": "bec463136b1cb5c7635312651a1f4139",
-    "url": "/static/media/CircularStd-Bold.bec46313.svg"
+    "revision": "1b076d9ad8819d19aa512a24ebbae34e",
+    "url": "/static/media/CircularStd-Black.1b076d9a.svg"
   },
   {
     "revision": "a15d13a6b00a25ddd69c1ba129dc9804",
@@ -148,7 +148,7 @@ self.__precacheManifest = [
     "url": "/static/css/2.36a7c766.chunk.css"
   },
   {
-    "revision": "bf6b786baeecaae529bb2b39f0fc8a52",
+    "revision": "32c04dc8e6aa03dcdafa946fbceffe92",
     "url": "/index.html"
   }
 ];
