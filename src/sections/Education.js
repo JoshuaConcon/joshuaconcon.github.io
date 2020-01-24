@@ -40,7 +40,6 @@ class Education extends Component {
                 i'm studying <a href="https://web.cs.toronto.edu/">
                   computer science at the university of toronto
                 </a> (graduating june 2021).
-                <br />
                 i was a teaching assistant for
                 discrete math, intro to programming and data structures.
               </div>

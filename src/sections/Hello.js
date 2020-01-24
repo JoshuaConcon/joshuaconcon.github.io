@@ -30,6 +30,8 @@ class Hello extends Component {
           <h1>
             joshua concon
           </h1>
+          a software developer based in toronto,
+          <br />
           scroll down to learn more about me!
         </font>
       </Container>
