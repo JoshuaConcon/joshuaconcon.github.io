@@ -26,8 +26,9 @@ class Hobbies extends Component {
     return (
       <Container bgColour={this.state.bgColour}>
         <font color={this.state.contentColour}>
-          <div className="title-shape"></div>
-          <h2>hobbies</h2>
+          <div className="centered">
+            <h2>hobbies</h2>
+          </div>
           <div className="main-carousel" data-flickity='{ "cellAlign": "left", "contain": true, "wrapAround": true, "autoPlay": 7500, "imagesLoaded": true }'>
             <div className="manga-bg-image carousel-cell">
               <div className="overlap-shape"></div>
