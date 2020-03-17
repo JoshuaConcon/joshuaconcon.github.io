@@ -31,15 +31,6 @@ class Experience extends Component {
           <div
             className="main-carousel"
             data-flickity='{ "cellAlign": "left", "contain": true, "wrapAround": true, "autoPlay": 7500, "imagesLoaded": true}'>
-            <div className="pmcc-bg-image carousel-cell">
-              <div className="overlap-shape"></div>
-              <div className="overlap-title">
-                princess margaret cancer centre
-              </div>
-              <div className="overlap-text">
-                im an incoming research intern at the <a href="https://www.uhn.ca/PrincessMargaret">princess margaret cancer centre</a> under the <a href="https://www.pmgenomics.ca/bhklab/">benjamin haibe-kains lab</a>
-              </div>
-            </div>
             <div className="centivizer-bg-image carousel-cell">
               <div className="overlap-shape"></div>
               <div className="overlap-title">
