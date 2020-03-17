@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import Container from '../components/Container';
-import './Section.css';
+import './Hello.css';
 
 /**
  * Introductory Section
@@ -25,18 +25,14 @@ class Hello extends Component {
   render() {
     return (
       <Container bgColour={this.state.bgColour}>
-        <div className="centered">
-          <font color={this.state.contentColour}>
-            howdy, i'm
-            <h1>
-              joshua concon
-            </h1>
-            <h4>
-            a software developer based in toronto
-            </h4>
-            scroll down to learn more about me!
-          </font>
-        </div>
+        <font color={this.state.contentColour}>
+          howdy, i'm
+          <h1>
+            joshua concon
+          </h1>
+          a software developer based in toronto,
+          scroll down to learn more about me!
+        </font>
       </Container>
     );
   }

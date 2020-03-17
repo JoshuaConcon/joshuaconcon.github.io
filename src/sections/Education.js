@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import Container from '../components/Container';
 import './Flickty.css';
-import './Section.css';
 
 /**
  * Education portion of website
@@ -27,9 +26,8 @@ class Education extends Component {
     return (
       <Container bgColour={this.state.bgColour}>
         <font color={this.state.contentColour}>
-          <div className="centered">
-            <h2>education</h2>
-          </div>
+          <div className="title-shape"></div>
+          <h2>education</h2>
           <div
             className="main-carousel"
             data-flickity='{ "cellAlign": "left", "contain": true, "wrapAround": true, "autoPlay": 7500, "imagesLoaded": true, "draggable": true }'>
