@@ -11,7 +11,7 @@ class Hello extends Component {
    */
   render() {
     return (
-      <div className="hello-bg-image large-piece center-align">
+      <div className="hello-bg-image large-piece">
         <font color="white">
           <div className="title">
             hey, i'm josh

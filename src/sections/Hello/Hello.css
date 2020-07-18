@@ -5,20 +5,20 @@
 }
 
 .scroll-down {
-  font-size: calc(8vmin);
+  font-size: calc(5vmin);
   text-align: center;
   font-weight: bold
 }
 
 .blurb {
-  font-size: calc(6vmin);
+  font-size: calc(5vmin);
   text-align: center;
-  margin-top: 1.25em;
-  margin-bottom: 1.25em;
+  margin-top: 2.5em;
+  margin-bottom: 3em;
 }
 
 .hello-bg-image {
-  background-image: url(https://i.imgur.com/ZwI7Mex.jpg);
+  background-image: url(https://i.imgur.com/5LFfn9l.jpg);
   background-size: cover;
 }
 
