@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import Now from './Now';
 import Education from './Education';
-import Hello from './Hello';
+import Hello from './Hello/';
 import Hobbies from './Hobbies';
 import Experience from './Experience';
 
