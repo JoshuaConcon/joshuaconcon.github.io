@@ -2,7 +2,6 @@ import React, {Component} from 'react';
 import Sections from './sections/';
 import './App.css';
 import 'circular-std';
-require('./aliases');
 
 /**
  * Main App Component

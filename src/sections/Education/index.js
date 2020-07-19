@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import './Education.css';
 
 /**
  * Education portion of website
@@ -25,10 +26,10 @@ class Education extends Component {
       <div className="education-bg-image medium-piece">
         <font color="white">
           <div className="edu-title">
-            currently studying computer science at uoft
+            i study cs at uoft
           </div>
           <div className="edu-subtitle">
-            i was a TA for discrete math, intro to programming & data structures
+            was a TA for discrete math, intro to cs & data structures
           </div>
         </font>
       </div>

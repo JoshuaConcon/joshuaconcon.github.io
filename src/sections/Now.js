@@ -28,17 +28,6 @@ class Now extends Component {
         <font color={this.state.contentColour}>
           <div className="title-shape"></div>
           <h2>contact + now</h2>
-          <p>
-            status: looking for internship
-            positions for summer (may - august) and fall (september - december) 2020 in toronto
-            <br />
-            <br />
-            im planning on working in the industry for a few years after
-            graduating and then potentially pursuing graduate school
-            <br />
-            <br />
-            feel free to take a look at my links or contact me
-          </p>
           <Link
             hyperlink="mailto:me@joshuaconcon.ca"
             iconName="far fa-envelope"
