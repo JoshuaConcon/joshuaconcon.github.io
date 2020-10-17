@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import './Now.css';
 
 /**
  * Introductory Section
@@ -10,16 +11,19 @@ class Now extends Component {
    */
   render() {
     return (
-      <div>
-        <p>
-          status: looking for internship
-          positions for fall (september - december) 2020 and
-          fulltime positions starting May 2021 in toronto
+      <div className="large-piece">
+        <div className="blurb">
+          status: looking for dev new grad positions
           <br />
           <br />
-          im planning on staying in toronto when i graduate, but i am open
-          to opportunities
-        </p>
+          starting May 2021 in toronto or remote
+          <br />
+          <br />
+          here's my contact info, feel free to reach out
+          <br />
+          <br />
+          resume linkedin github angellist email
+        </div>
       </div>
     );
   }

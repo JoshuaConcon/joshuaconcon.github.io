@@ -1,0 +1,32 @@
+.title {
+  font-size: calc(15vmin);
+  text-align: center;
+  font-weight: bold;
+}
+
+.scroll-down {
+  font-size: calc(5vmin);
+  text-align: center;
+  font-weight: bold
+}
+
+.blurb {
+  font-size: calc(5vmin);
+  text-align: center;
+  margin-top: 2.5em;
+  margin-bottom: 3em;
+}
+
+.hello-bg-image {
+  background-image: url(https://i.imgur.com/5LFfn9l.jpg);
+  background-size: cover;
+}
+
+.large-piece {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 5vh 5vw 5vh 5vw
+}

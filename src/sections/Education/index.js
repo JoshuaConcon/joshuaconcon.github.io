@@ -26,10 +26,10 @@ class Education extends Component {
       <div className="education-bg-image medium-piece">
         <font color="white">
           <div className="edu-title">
-            i study cs at uoft
+            i study compsci at utoronto
           </div>
           <div className="edu-subtitle">
-            was a TA for discrete math, intro to cs & data structures
+            was a TA for discrete math, intro to compsci & data structures
           </div>
         </font>
       </div>
