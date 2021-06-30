@@ -29,7 +29,10 @@ class Hello extends Component {
             education
           </div>
           <div className="normal">
-            - computer science at the university of toronto
+            i'm doing computer science at the university of toronto (uoft)
+          </div>
+          <div className="normal">
+            there, i was also a teaching assistant for cs & math courses
           </div>
           <br />
           <br />
@@ -42,22 +45,22 @@ class Hello extends Component {
             <b>current:</b>
           </div>
           <div className="normal">
-            - incoming swe at restaurant brands international
+            - i will be joining the technical development program at restaurant brands international
           </div>
           <div className="normal">
             <b>previous:</b>
           </div>
           <div className="normal">
-            - product intern at scotiabank
+            - i worked on improving internal sales for scotiabank's cloud operations team
           </div>
           <div className="normal">
-            - swe intern at centivizer
+            - i worked on a cognitive research project at centivizer
           </div>
           <div className="normal">
-            - swe intern at altice usa
+            - i worked on a new advertising platform at altice usa
           </div>
           <div className="normal">
-            - swe intern at scotiabank
+            - i worked on reporting tools for scotiabank's market risk department
           </div>
           <br />
           <br />
@@ -67,16 +70,16 @@ class Hello extends Component {
             hobbies
           </div>
           <div className="normal">
-            - fashion
+            - fashion (i'm a big fan of earth tones)
           </div>
           <div className="normal">
-            - graphic design
+            - manga and anime (currently re-reading kingdom)
           </div>
           <div className="normal">
-            - manga and anime
+            - videogames (mostly smash bros and animal crossing)
           </div>
           <div className="normal">
-            - videogames
+            - kpop (mostly loona)
           </div>
           <br />
           <br />
@@ -86,7 +89,7 @@ class Hello extends Component {
             now
           </div>
           <div className="normal">
-            status: awaiting to start the rbi new grad program in sept
+            status: i'm still awaiting to start the restaurant brands international new grad program in sept. i'm also still in school.
           </div>
           <br />
           <br />
@@ -96,25 +99,25 @@ class Hello extends Component {
             contact
           </div>
           <div className="normal">
-            feel free to contact me
+            feel free to contact me below! im pretty friendly
           </div>
           <div className="normal">
-          <Link
-            hyperlink="https://linkedin.com/in/joshuaconcon"
-            iconName="fab fa-linkedin-in"
-            colour="#FEFFF1"/>
-          <Link
-            hyperlink="https://github.com/JoshuaConcon"
-            iconName="fab fa-github"
-            colour="#000000"/>
-          <Link
-            hyperlink="https://github.com/JoshuaConcon/resume/blob/master/resume.pdf"
-            iconName="far fa-file-alt"
-            colour="#000000"/>
-          <Link
-            hyperlink="https://twitter.com/Joshua_Concon"
-            iconName="fab fa-twitter"
-            colour="#000000"/>
+            <Link
+              hyperlink="https://linkedin.com/in/joshuaconcon"
+              iconName="fab fa-linkedin-in"
+              colour="#FEFFF1"/>
+            <Link
+              hyperlink="https://github.com/JoshuaConcon"
+              iconName="fab fa-github"
+              colour="#000000"/>
+            <Link
+              hyperlink="https://github.com/JoshuaConcon/resume/blob/master/resume.pdf"
+              iconName="far fa-file-alt"
+              colour="#000000"/>
+            <Link
+              hyperlink="https://twitter.com/Joshua_Concon"
+              iconName="fab fa-twitter"
+              colour="#000000"/>
           </div>
         </font>
       </div>

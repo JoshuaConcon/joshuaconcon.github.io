@@ -5,14 +5,15 @@
 }
 
 .heading {
-  font-size: calc(10vmin);
+  font-size: calc(9vmin);
   text-align: left;
   font-weight: bold
 }
 
 .normal {
-  font-size: calc(6vmin);
+  font-size: calc(5vmin);
   text-align: left;
+  padding: 5vh 5vw 5vh 5vw
 }
 
 .hello-bg-image {
