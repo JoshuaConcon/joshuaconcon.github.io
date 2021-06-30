@@ -19,7 +19,7 @@ class Hello extends Component {
             joshua concon
           </div>
           <div className="normal">
-            a software engineer (swe) based in toronto
+            a software developer based in toronto
           </div>
           <br />
           <br />
@@ -29,10 +29,10 @@ class Hello extends Component {
             education
           </div>
           <div className="normal">
-            i'm doing computer science at the university of toronto
+            i'm doing my degree in computer science at the university of toronto
           </div>
           <div className="normal">
-            there, i was also a teaching assistant for cs & math courses
+            there, i was also a teaching assistant for intro to programming, discrete math and data structures
           </div>
           <br />
           <br />
@@ -45,22 +45,22 @@ class Hello extends Component {
             <b>current:</b>
           </div>
           <div className="normal">
-            - i will be joining the technical development program at restaurant brands international
+            i will be joining the technical development program at restaurant brands international starting on sept 2021
           </div>
           <div className="normal">
             <b>previous:</b>
           </div>
           <div className="normal">
-            - i worked on improving internal sales for scotiabank's cloud operations team
+            i worked on improving internal sales for scotiabank's cloud operations team
           </div>
           <div className="normal">
-            - i worked on a cognitive research project at centivizer
+            i worked on a cognitive research project at centivizer
           </div>
           <div className="normal">
-            - i worked on a new advertising platform at altice usa
+            i worked on a new advertising platform at altice usa
           </div>
           <div className="normal">
-            - i worked on reporting tools for scotiabank's market risk department
+            i worked on reporting tools for scotiabank's market risk department
           </div>
           <br />
           <br />
@@ -70,16 +70,19 @@ class Hello extends Component {
             hobbies
           </div>
           <div className="normal">
-            - fashion (i'm a big fan of earth tones)
+            fashion (i'm a big fan of earth tones)
           </div>
           <div className="normal">
-            - manga and anime (currently re-reading kingdom)
+            manga and anime (re-reading kingdom, watching naruto)
           </div>
           <div className="normal">
-            - videogames (mostly smash bros and animal crossing)
+            videogames (mostly smash bros and animal crossing)
           </div>
           <div className="normal">
-            - kpop (mostly loona)
+            kpop (yeah)
+          </div>
+          <div className="normal">
+            olympic weightlifting (currently stretching to get into the deep squat and front rack positions)
           </div>
           <br />
           <br />
@@ -99,7 +102,7 @@ class Hello extends Component {
             contact
           </div>
           <div className="normal">
-            feel free to contact me below! im pretty friendly
+            feel free to contact me below! i'm pretty friendly!
           </div>
           <div className="normal">
             <Link

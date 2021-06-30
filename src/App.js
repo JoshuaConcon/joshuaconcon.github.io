@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import Sections from './sections/';
+import "@vetixy/circular-std";
 import './App.css';
 
 /**
