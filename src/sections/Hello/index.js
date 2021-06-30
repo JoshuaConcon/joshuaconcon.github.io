@@ -19,7 +19,7 @@ class Hello extends Component {
             joshua concon
           </div>
           <div className="normal">
-            a software developer based in toronto
+            i'm a software developer based in toronto
           </div>
           <br />
           <br />
@@ -29,7 +29,7 @@ class Hello extends Component {
             education
           </div>
           <div className="normal">
-            i'm doing my degree in computer science at the university of toronto
+            i'm currently doing my degree in computer science at the university of toronto
           </div>
           <div className="normal">
             there, i was also a teaching assistant for intro to programming, discrete math and data structures
