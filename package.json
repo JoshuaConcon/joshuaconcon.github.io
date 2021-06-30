@@ -4,7 +4,6 @@
   "private": true,
   "homepage": "https://joshuaconcon.github.io/",
   "dependencies": {
-    "circular-std": "1.0.3",
     "flickity": "2.2.1",
     "gh-pages": "2.0.1",
     "module-alias": "2.2.2",

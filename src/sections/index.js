@@ -1,7 +1,5 @@
 import React, {Component} from 'react';
 import Hello from './Hello/';
-import Education from './Education/';
-import Now from './Now/';
 
 /**
  * Sections Component
@@ -15,8 +13,6 @@ class Sections extends Component {
     return (
       <div className="App">
         <Hello />
-        <Education />
-        <Now />
       </div>
     );
   }
