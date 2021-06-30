@@ -29,7 +29,7 @@ class Hello extends Component {
             education
           </div>
           <div className="normal">
-            i'm doing computer science at the university of toronto (uoft)
+            i'm doing computer science at the university of toronto
           </div>
           <div className="normal">
             there, i was also a teaching assistant for cs & math courses
