@@ -121,6 +121,10 @@ class Hello extends Component {
               hyperlink="https://twitter.com/Joshua_Concon"
               iconName="fab fa-twitter"
               colour="#000000"/>
+            <Link
+              hyperlink="https://angel.co/joshuaconcon"
+              iconName="fab fa-angellist"
+              colour="#000000"/>
           </div>
         </font>
       </div>
