@@ -89,6 +89,22 @@ class Hello extends Component {
           <br />
           <div className="overlap-shape"></div>
           <div className="heading">
+            fun facts
+          </div>
+          <div className="normal">
+            i always second guess myself when i spell out "pieces"
+          </div>
+          <div className="normal">
+            i really love eggs, i could eat 5 in one meal
+          </div>
+          <div className="normal">
+            most of my plants are still alive
+          </div>
+          <br />
+          <br />
+          <br />
+          <div className="overlap-shape"></div>
+          <div className="heading">
             now
           </div>
           <div className="normal">
