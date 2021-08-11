@@ -6,7 +6,7 @@ export const LiquidDistortion = ({ text }) => {
     <>
       <LiquidDistortionText
         text={text}
-        fontSize={120}
+        fontSize={60}
         speed={0.6}
         volatility={0.02}
         fill={"white"}
