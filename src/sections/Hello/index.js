@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import './Hello.css';
 import Link from './Link';
+import { LiquidDistortion } from "./Distort";
 
 /**
  * Introductory Section
@@ -16,7 +17,7 @@ class Hello extends Component {
         <font color="white">
           <div className="overlap-shape"></div>
           <div className="title">
-            joshua concon
+            <LiquidDistortion text={"joshua concon"} />
           </div>
           <div className="normal">
             i'm a software developer based in toronto
