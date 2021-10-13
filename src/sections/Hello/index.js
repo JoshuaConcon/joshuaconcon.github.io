@@ -33,7 +33,7 @@ class Hello extends Component {
             i'm currently doing my degree in computer science at the university of toronto
           </div>
           <div className="normal">
-            there, i was also a teaching assistant for intro to programming, discrete math and data structures
+            i also was a teaching assistant for intro to programming, discrete math and data structures
           </div>
           <br />
           <br />
@@ -46,7 +46,7 @@ class Hello extends Component {
             <b>current:</b>
           </div>
           <div className="normal">
-            i will be joining the technical development program at restaurant brands international starting on sept 2021
+            i am currently on the brand engineering team in restaurant brands international's technical rotational program
           </div>
           <div className="normal">
             <b>previous:</b>
@@ -74,16 +74,16 @@ class Hello extends Component {
             fashion (i'm a big fan of earth tones)
           </div>
           <div className="normal">
-            manga and anime (re-reading kingdom, watching naruto)
+            manga and anime (re-reading kingdom)
           </div>
           <div className="normal">
-            videogames (mostly smash bros and animal crossing)
+            videogames (mostly smash bros)
           </div>
           <div className="normal">
-            kpop (yeah)
+            kpop (mainly loona, itzy, twice)
           </div>
           <div className="normal">
-            olympic weightlifting (currently stretching to get into the deep squat and front rack positions)
+            olympic weightlifting
           </div>
           <br />
           <br />
@@ -101,6 +101,12 @@ class Hello extends Component {
           <div className="normal">
             most of my plants are still alive
           </div>
+          <div className="normal">
+            i used to work at costco for 2 years and so far it has been the most chaotic place ive worked at
+          </div>
+          <div className="normal">
+            im engaged to fides linga
+          </div>
           <br />
           <br />
           <br />
@@ -109,7 +115,7 @@ class Hello extends Component {
             now
           </div>
           <div className="normal">
-            status: i'm still awaiting to start the restaurant brands international new grad program in sept. i'm also still in school.
+            status: started at restaurant brands international in their new grad program in sept. i'm also still in school.
           </div>
           <br />
           <br />
