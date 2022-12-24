@@ -20,7 +20,7 @@ class Hello extends Component {
             <LiquidDistortion text={"joshua concon"} />
           </div>
           <div className="normal">
-            i'm a software developer based in toronto
+            i'm a software developer based in toronto!
           </div>
           <br />
           <br />
@@ -30,10 +30,10 @@ class Hello extends Component {
             education
           </div>
           <div className="normal">
-            i'm currently doing my degree in computer science at the university of toronto
+            computer science at the university of toronto
           </div>
           <div className="normal">
-            i also was a teaching assistant for intro to programming, discrete math and data structures
+            teaching assistant: intro to programming, discrete math and data structures
           </div>
           <br />
           <br />
@@ -46,22 +46,22 @@ class Hello extends Component {
             <b>current:</b>
           </div>
           <div className="normal">
-            i am currently on the brand engineering team in restaurant brands international's technical rotational program
+            software development engineer ii on the loyalty team at restaurant brands international
           </div>
           <div className="normal">
             <b>previous:</b>
           </div>
           <div className="normal">
-            i worked on improving internal sales for scotiabank's cloud operations team
+            product design intern on the cloud operations team at scotiabank
           </div>
           <div className="normal">
-            i worked on a cognitive research project at centivizer
+            software developer intern on the cognitive centivizer team at centivizer
           </div>
           <div className="normal">
-            i worked on a new advertising platform at altice usa
+            software developer intern on the a4 platform team at altice usa
           </div>
           <div className="normal">
-            i worked on reporting tools for scotiabank's market risk department
+            software developer intern on the market risk team at scotiabank
           </div>
           <br />
           <br />
@@ -96,16 +96,10 @@ class Hello extends Component {
             i always second guess myself when i spell out "pieces"
           </div>
           <div className="normal">
-            i really love eggs, i could eat 5 in one meal
-          </div>
-          <div className="normal">
-            most of my plants are still alive
-          </div>
-          <div className="normal">
             i used to work at costco for 2 years and so far it has been the most chaotic place ive worked at
           </div>
           <div className="normal">
-            im engaged to fides linga
+            im married to fides linga
           </div>
           <br />
           <br />
