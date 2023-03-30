@@ -131,7 +131,7 @@ class Hello extends Component {
               iconName="fab fa-github"
               colour="#000000"/>
             <Link
-              hyperlink="https://github.com/JoshuaConcon/resume/blob/master/resume.pdf"
+              hyperlink="https://joshuaconcon.ca/resume/resume.pdf"
               iconName="far fa-file-alt"
               colour="#000000"/>
             <Link
